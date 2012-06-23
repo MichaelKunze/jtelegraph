@@ -4,6 +4,10 @@
 
 **JTelegraph** is a small library for providing messaging notification features to Java applications. It can be used as a replacement for modal message boxes. It is an attempt to replace modal messages with a fancy new messaging system.
 
+## Maven
+
+To use the library in other projects as a dependency issue a plain `mvn install` here to install the jar in your local repository
+
 ## License
 
 This library is licensed under the New BSD License. I want to call your attention to the fact that the New BSD License has been verified as a GPL-compatible free software license by the Free Software Foundation, and has been vetted as an open source license by the Open Source Initiative.
